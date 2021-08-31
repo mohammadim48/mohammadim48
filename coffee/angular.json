@@ -27,17 +27,17 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/owl.carousel.min.css",
               "src/assets/css/slick.css",
               "src/assets/css/slick-theme.css",
-              "src/assets/css/owl.theme.default.min.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/assets/css/style.css",
               "src/styles.css"
             ],
             "scripts": [
               "./node_modules/jquery/dist/jquery.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "src/assets/js/owl.carousel.min.js",
+              "./node_modules/owl.carousel/dist/owl.carousel.min.js",
               "src/assets/js/slick.js",
               "src/assets/js/countdown.js",
               "src/assets/js/main.js"

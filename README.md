@@ -12,9 +12,6 @@ I am a front-end developer specializing in Angular and React.<br>With a passion 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadim48&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadim48&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadim48&icon=6&color=1)](https://visitcount.itsvg.in)
 
